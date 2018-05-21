@@ -3,6 +3,8 @@
 # Repositories needing to be worked on
 * [symfony-flex-demo/console](https://github.com/symfony-flex-demo/console)
 * [symfony-flex-demo/easyadmin-ckeditor](https://github.com/symfony-flex-demo/easyadmin-ckeditor)
+* Paginator component
+  * [*[RFC] Paginator component*](https://github.com/symfony/symfony/issues/27276)
 
 # See also
 ## Symfony Flex
