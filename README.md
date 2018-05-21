@@ -1,4 +1,4 @@
-# [symfony-flex-demo](https://symfony-flex-demo.github.io)
+# [symfony-flex-demo](https://symfony-flex-demo.github.io)@[GitHub](https://github.com/symfony-flex-demo)
 
 # Repositories needing to be worked on
 * [symfony-flex-demo/console](https://github.com/symfony-flex-demo/console)
