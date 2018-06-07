@@ -5,6 +5,8 @@
 * [symfony-flex-demo/easyadmin-ckeditor](https://github.com/symfony-flex-demo/easyadmin-ckeditor)
 
 # Topic to follow
+* Console Applications
+  * See [symfony-flex-init/skeleton](https://github.com/symfony-flex-init/skeleton)
 * Doctrine
   * [*ManyToMany Joins & When to Avoid ManyToMany*](https://knpuniversity.com/screencast/doctrine-relations/many-to-many-joins)
 * Log
