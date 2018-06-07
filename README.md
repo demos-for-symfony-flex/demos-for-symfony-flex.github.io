@@ -6,7 +6,7 @@
 
 # Topic to follow
 * Doctrine
-  * [*ManyToMany Joins & When to Avoid ManyToMany*](ManyToMany Joins & When to Avoid ManyToMany)
+  * [*ManyToMany Joins & When to Avoid ManyToMany*](https://knpuniversity.com/screencast/doctrine-relations/many-to-many-joins)
 * Paginator component
   * [*[RFC] Paginator component*](https://github.com/symfony/symfony/issues/27276)
 
