@@ -7,6 +7,8 @@
 # Topic to follow
 * Doctrine
   * [*ManyToMany Joins & When to Avoid ManyToMany*](https://knpuniversity.com/screencast/doctrine-relations/many-to-many-joins)
+* Log
+  * [*Logging with Monolog*](https://medium.com/@antonlytvynov/symfony-logs-with-monolog-1da3a2a6eb6a)
 * Paginator component
   * [*[RFC] Paginator component*](https://github.com/symfony/symfony/issues/27276)
 
