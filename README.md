@@ -3,6 +3,10 @@
 # Repositories needing to be worked on
 * [symfony-flex-demo/console](https://github.com/symfony-flex-demo/console)
 * [symfony-flex-demo/easyadmin-ckeditor](https://github.com/symfony-flex-demo/easyadmin-ckeditor)
+
+# Topic to follow
+* Doctrine
+  * [*ManyToMany Joins & When to Avoid ManyToMany*](ManyToMany Joins & When to Avoid ManyToMany)
 * Paginator component
   * [*[RFC] Paginator component*](https://github.com/symfony/symfony/issues/27276)
 
