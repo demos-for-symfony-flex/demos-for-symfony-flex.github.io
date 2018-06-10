@@ -13,6 +13,10 @@
   * [*Logging with Monolog*](https://medium.com/@antonlytvynov/symfony-logs-with-monolog-1da3a2a6eb6a)
 * Paginator component
   * [*[RFC] Paginator component*](https://github.com/symfony/symfony/issues/27276)
+* PDF
+  * [*PDF Generation in Symfony*](https://medium.com/@endroid/pdf-generation-in-symfony-3080702353b)
+* Symfony
+  * [*Straightforward Symfony 4 Best Practices*](https://medium.com/@smaine.milianni/straightforward-symfony-4-best-practices-e6d1b3c0a9dd)
 
 # See also
 ## Symfony Flex
