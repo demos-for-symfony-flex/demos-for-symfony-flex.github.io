@@ -1,12 +1,12 @@
-# [symfony-flex-demo](https://symfony-flex-demo.github.io)@[GitHub](https://github.com/symfony-flex-demo)
+# [demos-for-symfony-flex](https://demos-for-symfony-flex.github.io)@[GitHub](https://github.com/demos-for-symfony-flex)
 
 # Repositories needing to be worked on
-* [symfony-flex-demo/console](https://github.com/symfony-flex-demo/console)
-* [symfony-flex-demo/easyadmin-ckeditor](https://github.com/symfony-flex-demo/easyadmin-ckeditor)
+* [demos-for-symfony-flex/console](https://github.com/demos-for-symfony-flex/console)
+* [demos-for-symfony-flex/easyadmin-ckeditor](https://github.com/demos-for-symfony-flex/easyadmin-ckeditor)
 
 # Topic to follow
 * Console Applications
-  * See [symfony-flex-init/skeleton](https://github.com/symfony-flex-init/skeleton)
+  * See [inits-for-symfony-flex/skeleton](https://github.com/inits-for-symfony-flex/skeleton)
 * Doctrine
   * [*ManyToMany Joins & When to Avoid ManyToMany*](https://knpuniversity.com/screencast/doctrine-relations/many-to-many-joins)
 * Log
@@ -20,12 +20,12 @@
 
 # See also
 ## Symfony Flex
-* [symfony-flex-init](https://symfony-flex-init.github.io)
-* [symfony-skeleton-demo](https://symfony-skeleton-demo.github.io)
-* [symfony-website-skeleton-demo](https://symfony-website-skeleton-demo.github.io)
+* [inits-for-symfony-flex](https://inits-for-symfony-flex.github.io)
+* [demos-for-symfony-skeleton](https://demos-for-symfony-skeleton.github.io)
+* [demos-for-symfony-website-skeleton](https://demos-for-symfony-website-skeleton.github.io)
 
 ## Symfony
-* [symfony-util](https://symfony-util.github.io)
+* [utils-for-symfony](https://utils-for-symfony.github.io)
 
 ## Tools used
 * [travis-util](https://travis-util.github.io/)
